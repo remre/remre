@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="animated.gif" width="1200" height="400">
+<img src="animation.gif" width="1200" height="400">
 <!--
 **remre/remre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
